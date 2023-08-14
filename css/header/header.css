@@ -1,0 +1,7 @@
+.header {
+
+  background-color: rgba(255, 255, 255, 0.9);
+  max-height: 89px;
+  width: 1280px;
+  position: absolute;
+}

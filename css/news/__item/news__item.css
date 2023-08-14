@@ -1,0 +1,6 @@
+.news__item {
+    display: flex;
+    width: 948px;
+    margin: 0 196px; 
+    gap: 26px;
+}

@@ -1,0 +1,6 @@
+.footer__block {
+    width: 965px;
+    margin: 0 auto;
+    display: flex;
+    gap: 74px;
+}

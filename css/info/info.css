@@ -1,0 +1,11 @@
+.info {
+  position: relative;
+  z-index: 1;
+  background-color: #fff;
+  top: 476px;
+  text-align: center;
+  padding-top: 65px;
+  height: 405px;
+  width: 1280px;
+  overflow: hidden;
+}

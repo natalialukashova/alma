@@ -1,0 +1,13 @@
+.info__icon {
+  width: 179px;
+  height: 179px;
+  border-radius: 50%;
+}
+
+.info__icon:hover {
+  opacity: 0.56;
+}
+
+.info__icon:hover .info__icon_text {
+  display: block;
+}

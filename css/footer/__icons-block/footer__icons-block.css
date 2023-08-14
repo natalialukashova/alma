@@ -1,0 +1,5 @@
+.footer__icons-block {
+    display: flex;
+    margin-top: 55px;
+    gap: 26px;
+}

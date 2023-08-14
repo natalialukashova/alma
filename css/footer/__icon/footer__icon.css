@@ -1,0 +1,8 @@
+.footer__icon {
+    width: 52px;
+    height: 52px;
+    background-color: #696b6a;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+}

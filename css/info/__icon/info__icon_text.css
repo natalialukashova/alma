@@ -1,0 +1,11 @@
+.info__icon_text {
+    display: none;
+    color: #fff;
+    position: relative;
+    bottom: 91px;
+    left: 25px;
+    font-size: 12px;
+    width: 130px;
+    height: 85px;
+    z-index: 1;
+}

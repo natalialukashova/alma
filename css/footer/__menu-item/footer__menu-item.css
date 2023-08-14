@@ -1,0 +1,19 @@
+.footer__menu-item {
+    display: flex;
+    flex-direction: column;
+    width: 106px;
+    margin-right: 20px;
+}
+
+.footer__menu-item:last-child {
+    width: auto;
+    margin: 0;
+    padding-right: 10px;
+}
+
+@media screen and (max-width: 1023px) {
+.footer__menu-item {
+    width: 106px;
+    margin: 0;
+}
+}

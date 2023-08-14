@@ -1,0 +1,63 @@
+/* нормализация дефолтных стилей */
+@import url(../css/normalize.css);
+
+/* подключение шрифтов */
+@import url(../fonts/fonts.css);
+
+/* общие стили для всей страницы */
+@import url(../css/page/page.css);
+
+/* стили для блока header */
+@import url(../css/header/header.css);
+@import url(../css/header/__logo/header__logo.css);
+@import url(../css/header/__span/header__span.css);
+@import url(../css/header/__menu/header__menu.css);
+@import url(../css/header/__link/header__link.css);
+@import url(../css/header/__login-btn/header__login-btn.css);
+@import url(../css/header/__login-btn/_image/header__login-btn_image.css);
+@import url(../css/header/__block/header__block.css);
+@import url(../css/header/__main/header__main.css);
+
+/* стили для блока lead */
+@import url(../css/lead/lead.css);
+@import url(../css/lead/__image/lead__image.css);
+@import url(../css/lead/__title/lead__title.css);
+@import url(../css/lead/__subtitle/lead__subtitle.css);
+@import url(../css/lead/__text/lead__text.css);
+@import url(../css/lead/__circles/lead__circles.css);
+@import url(../css/lead/__circle/lead__circle.css);
+@import url(../css/lead/__circle/_1/lead__circle_1.css);
+@import url(../css/lead/__circle/_2/lead__circle_2.css);
+@import url(../css/lead/__circle/_3/lead__circle_3.css);
+
+/* стили для блока info */
+@import url(../css/info/info.css);
+@import url(../css/info/__title/info__title.css);
+@import url(../css/info/__parag/info__parag.css);
+@import url(../css/info/__icons-block/info__icons-block.css);
+@import url(../css/info/__icon/info__icon.css);
+@import url(../css/info/__icon/info__icon_img.css);
+@import url(../css/info/__icon/info__icon_text.css);
+@import url(../css/info/__icon/info__icon_title.css);
+@import url(../css/info/__icon/info__icon_tickets.css);
+@import url(../css/info/__icon/info__icon_camera.css);
+@import url(../css/info/__icon/info__icon_beer.css);
+@import url(../css/info/__icon/info__icon_devices.css);
+
+/* стили для блока news */
+@import url(../css/news/__item/news__item.css);
+@import url(../css/news/__text/news__text.css);
+@import url(../css/news/__title/news__title.css);
+@import url(../css/news/news.css);
+@import url(../css/news/__img/news__img.css);
+
+/* стили для блока footer */
+@import url(../css/footer/footer.css);
+@import url(../css/footer/__menu-item/footer__menu-item.css);
+@import url(../css/footer/__menu-item/_title/footer__menu-item_title.css);
+@import url(../css/footer/__menu-item/_link/footer__menu-item_link.css);
+@import url(../css/footer/__block/footer__block.css);
+@import url(../css/footer/__icons-block/footer__icons-block.css);
+@import url(../css/footer/__icon/footer__icon.css);
+@import url(../css/footer/__img/footer__img.css);
+@import url(../css/footer/__copyright/footer__copyright.css);

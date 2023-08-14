@@ -1,0 +1,7 @@
+.header__main {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 1024px;
+  margin: 26px auto 22px;
+}
